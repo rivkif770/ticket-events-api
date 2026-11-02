@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.local-appdata/
+.dotnet-home/
+*.db
+*.db-shm
+*.db-wal
+*tickets.db
